@@ -31,7 +31,8 @@
 ![Django](https://img.shields.io/badge/Django-%23092F32.svg?style=for-the-badge\&logo=django\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB.svg?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge\&logo=react\&logoColor=white)
-
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 #### 🔧 Tools
 
